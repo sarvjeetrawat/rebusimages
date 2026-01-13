@@ -2,7 +2,7 @@
   {
     "id": 1,
     "difficulty": "easy",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image1.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image1.png",
     "question": "What's it called?",
     "answer": "try to understand",
     "hint": "Try to"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "difficulty": "easy",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image2.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image2.png",
     "question": "What does this show?",
     "answer": "downtown",
     "hint": "Down"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "difficulty": "easy",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image3.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image3.png",
     "question": "What's it called?",
     "answer": "forget it",
     "hint": "Forget"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "difficulty": "easy",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image4.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image4.png",
     "question": "What's it called?",
     "answer": "stepfather",
     "hint": "Step"
@@ -34,16 +34,15 @@
   {
     "id": 5,
     "difficulty": "easy",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image5.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image5.png",
     "question": "What's it called?",
     "answer": "breakfast",
     "hint": "Break"
   },
-
   {
     "id": 6,
     "difficulty": "medium",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image6.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image6.png",
     "question": "What's it called?",
     "answer": "3d movie",
     "hint": "3D"
@@ -51,7 +50,7 @@
   {
     "id": 7,
     "difficulty": "medium",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image7.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image7.png",
     "question": "What's it called?",
     "answer": "top secret",
     "hint": "Top"
@@ -59,7 +58,7 @@
   {
     "id": 8,
     "difficulty": "medium",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image8.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image8.png",
     "question": "What's it called?",
     "answer": "metaphor",
     "hint": "Meta"
@@ -67,7 +66,7 @@
   {
     "id": 9,
     "difficulty": "medium",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image9.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image9.png",
     "question": "What's it called?",
     "answer": "summer",
     "hint": "Sum + R"
@@ -75,16 +74,15 @@
   {
     "id": 10,
     "difficulty": "medium",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image10.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image10.png",
     "question": "What's it called?",
     "answer": "split level",
     "hint": "Split"
   },
-
   {
     "id": 11,
     "difficulty": "hard",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image11.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image11.png",
     "question": "What's it called?",
     "answer": "travel overseas",
     "hint": "__ + overseas"
@@ -92,7 +90,7 @@
   {
     "id": 12,
     "difficulty": "hard",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image12.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image12.png",
     "question": "What's it called?",
     "answer": "for once in my life",
     "hint": "For once"
@@ -100,7 +98,7 @@
   {
     "id": 13,
     "difficulty": "hard",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image13.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image13.png",
     "question": "What's it called?",
     "answer": "but on second thought",
     "hint": "But on second"
@@ -108,7 +106,7 @@
   {
     "id": 14,
     "difficulty": "hard",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image14.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image14.png",
     "question": "What's it called?",
     "answer": "you are in trouble",
     "hint": "You are"
@@ -116,7 +114,7 @@
   {
     "id": 15,
     "difficulty": "hard",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image15.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image15.png",
     "question": "What's it called?",
     "answer": "happy hour",
     "hint": "Happy"
@@ -124,7 +122,7 @@
   {
     "id": 16,
     "difficulty": "hard",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image16.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image16.png",
     "question": "What's it called?",
     "answer": "one in a million",
     "hint": "One in"
@@ -132,7 +130,7 @@
   {
     "id": 17,
     "difficulty": "medium",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image17.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image17.png",
     "question": "What's it called?",
     "answer": "Engineer",
     "hint": "Engineer"
@@ -140,7 +138,7 @@
   {
     "id": 18,
     "difficulty": "easy",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image18.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image18.png",
     "question": "What's it called?",
     "answer": "Four wheel drive",
     "hint": "Four Wheel"
@@ -148,7 +146,7 @@
   {
     "id": 19,
     "difficulty": "hard",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image19.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image19.png",
     "question": "What's it called?",
     "answer": "Robin Hood",
     "hint": "Robin"
@@ -156,7 +154,7 @@
   {
     "id": 20,
     "difficulty": "hard",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image20.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image20.png",
     "question": "What's it called?",
     "answer": "Vegetables",
     "hint": "Vegetables"
@@ -164,7 +162,7 @@
   {
     "id": 21,
     "difficulty": "easy",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image21.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image21.png",
     "question": "What's it called?",
     "answer": "Polite",
     "hint": "Polite"
@@ -172,7 +170,7 @@
   {
     "id": 22,
     "difficulty": "hard",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image22.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image22.png",
     "question": "What's it called?",
     "answer": "long time no see",
     "hint": "long time no see"
@@ -180,7 +178,7 @@
   {
     "id": 23,
     "difficulty": "easy",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image23.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image23.png",
     "question": "What's it called?",
     "answer": "Apple Pie",
     "hint": "Apple Pie"
@@ -188,7 +186,7 @@
   {
     "id": 24,
     "difficulty": "easy",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image24.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image24.png",
     "question": "What's it called?",
     "answer": "Up to you",
     "hint": "Up to you"
@@ -196,7 +194,7 @@
   {
     "id": 25,
     "difficulty": "easy",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image25.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image25.png",
     "question": "What's it called?",
     "answer": "Forehead",
     "hint": "Forehead"
@@ -204,7 +202,7 @@
   {
     "id": 26,
     "difficulty": "medium",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image26.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image26.png",
     "question": "What's it called?",
     "answer": "Tuna fish",
     "hint": "Tuna fish"
@@ -212,7 +210,7 @@
   {
     "id": 27,
     "difficulty": "medium",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image27.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image27.png",
     "question": "What's it called?",
     "answer": "Waterfall",
     "hint": "Waterfall"
@@ -220,7 +218,7 @@
   {
     "id": 28,
     "difficulty": "easy",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image28.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image28.png",
     "question": "What's it called?",
     "answer": "Tea Bag",
     "hint": "Tea"
@@ -228,7 +226,7 @@
   {
     "id": 29,
     "difficulty": "easy",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image29.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image29.png",
     "question": "What's it called?",
     "answer": "Wake Up",
     "hint": "Wake Up"
@@ -236,10 +234,9 @@
   {
     "id": 30,
     "difficulty": "easy",
-    "image": "https://github.com/sarvjeetrawat/rebusimages/blob/main/images/image30.png",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image30.png",
     "question": "What's it called?",
     "answer": "Miss You",
     "hint": "Miss You"
   }
 ]
-
