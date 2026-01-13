@@ -1,1 +1,245 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "image": "image1",
+    "question": "What's it called?",
+    "answer": "try to understand",
+    "hint": "Try to"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "image": "image2",
+    "question": "What does this show?",
+    "answer": "downtown",
+    "hint": "Down"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "image": "image3",
+    "question": "What's it called?",
+    "answer": "forget it",
+    "hint": "Forget"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "image": "image4",
+    "question": "What's it called?",
+    "answer": "stepfather",
+    "hint": "Step"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "image": "image5",
+    "question": "What's it called?",
+    "answer": "breakfast",
+    "hint": "Break"
+  },
+
+  {
+    "id": 6,
+    "difficulty": "medium",
+    "image": "image6",
+    "question": "What's it called?",
+    "answer": "3d movie",
+    "hint": "3D"
+  },
+  {
+    "id": 7,
+    "difficulty": "medium",
+    "image": "image7",
+    "question": "What's it called?",
+    "answer": "top secret",
+    "hint": "Top"
+  },
+  {
+    "id": 8,
+    "difficulty": "medium",
+    "image": "image8",
+    "question": "What's it called?",
+    "answer": "metaphor",
+    "hint": "Meta"
+  },
+  {
+    "id": 9,
+    "difficulty": "medium",
+    "image": "image9",
+    "question": "What's it called?",
+    "answer": "summer",
+    "hint": "Sum + R"
+  },
+  {
+    "id": 10,
+    "difficulty": "medium",
+    "image": "image10",
+    "question": "What's it called?",
+    "answer": "split level",
+    "hint": "Split"
+  },
+
+  {
+    "id": 11,
+    "difficulty": "hard",
+    "image": "image11",
+    "question": "What's it called?",
+    "answer": "travel overseas",
+    "hint": "__ + overseas"
+  },
+  {
+    "id": 12,
+    "difficulty": "hard",
+    "image": "image12",
+    "question": "What's it called?",
+    "answer": "for once in my life",
+    "hint": "For once"
+  },
+  {
+    "id": 13,
+    "difficulty": "hard",
+    "image": "image13",
+    "question": "What's it called?",
+    "answer": "but on second thought",
+    "hint": "But on second"
+  },
+  {
+    "id": 14,
+    "difficulty": "hard",
+    "image": "image14",
+    "question": "What's it called?",
+    "answer": "you are in trouble",
+    "hint": "You are"
+  },
+  {
+    "id": 15,
+    "difficulty": "hard",
+    "image": "image15",
+    "question": "What's it called?",
+    "answer": "happy hour",
+    "hint": "Happy"
+  },
+  {
+    "id": 16,
+    "difficulty": "hard",
+    "image": "image16",
+    "question": "What's it called?",
+    "answer": "one in a million",
+    "hint": "One in"
+  },
+  {
+    "id": 17,
+    "difficulty": "medium",
+    "image": "image17",
+    "question": "What's it called?",
+    "answer": "Engineer",
+    "hint": "Engineer"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "image": "image18",
+    "question": "What's it called?",
+    "answer": "Four wheel drive",
+    "hint": "Four Wheel"
+  },
+  {
+    "id": 19,
+    "difficulty": "hard",
+    "image": "image19",
+    "question": "What's it called?",
+    "answer": "Robin Hood",
+    "hint": "Robin"
+  },
+  {
+    "id": 20,
+    "difficulty": "hard",
+    "image": "image20",
+    "question": "What's it called?",
+    "answer": "Vegetables",
+    "hint": "Vegetables"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "image": "image21",
+    "question": "What's it called?",
+    "answer": "Polite",
+    "hint": "Polite"
+  },
+  {
+    "id": 22,
+    "difficulty": "hard",
+    "image": "image22",
+    "question": "What's it called?",
+    "answer": "long time no see",
+    "hint": "long time no see"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "image": "image23",
+    "question": "What's it called?",
+    "answer": "Apple Pie",
+    "hint": "Apple Pie"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "image": "image24",
+    "question": "What's it called?",
+    "answer": "Up to you",
+    "hint": "Up to you"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "image": "image25",
+    "question": "What's it called?",
+    "answer": "Forehead",
+    "hint": "Forehead"
+  },
+  {
+    "id": 26,
+    "difficulty": "medium",
+    "image": "image26",
+    "question": "What's it called?",
+    "answer": "Tuna fish",
+    "hint": "Tuna fish"
+  },
+  {
+    "id": 27,
+    "difficulty": "medium",
+    "image": "image27",
+    "question": "What's it called?",
+    "answer": "Waterfall",
+    "hint": "Waterfall"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "image": "image28",
+    "question": "What's it called?",
+    "answer": "Tea Bag",
+    "hint": "Tea"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "image": "image29",
+    "question": "What's it called?",
+    "answer": "Wake Up",
+    "hint": "Wake Up"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "image": "image30",
+    "question": "What's it called?",
+    "answer": "Miss You",
+    "hint": "Miss You"
+  }
+]
 
