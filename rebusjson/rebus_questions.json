@@ -321,7 +321,7 @@
   },
   {
     "id": 41,
-    "difficulty": "easy",
+    "difficulty": "hard",
     "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image41.png",
     "question": "What's it called?",
     "answer": "once in a blue moon",
@@ -329,34 +329,44 @@
   },
   {
     "id": 42,
-    "difficulty": "hard",
+    "difficulty": "medium",
     "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image42.png",
     "question": "What's it called?",
-    "answer": "once in a blue moon",
-    "hint": "once in a blue moon"
+    "answer": "Ready for action",
+    "hint": "Ready for action"
   },
   {
     "id": 43,
     "difficulty": "medium",
     "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image43.png",
     "question": "What's it called?",
-    "answer": "Ready for action",
-    "hint": "Ready for"
-  },
-  {
-    "id": 45,
-    "difficulty": "medium",
-    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image45.png",
-    "question": "What's it called?",
     "answer": "misunderstood",
     "hint": "misunderstood"
+  },
+{
+    "id": 44,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image43.png",
+    "question": "What's it called?",
+    "answer": "heart attack",
+    "hint": "heart attack"
+  },
+
+
+  {
+    "id": 45,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image45.png",
+    "question": "What's it called?",
+    "answer": "square root",
+    "hint": "square root"
   },
   {
     "id": 46,
     "difficulty": "medium",
     "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image46.png",
     "question": "What's it called?",
-    "answer": "heart attack",
-    "hint": "heart attack"
+    "answer": "Feel free",
+    "hint": "free"
   }
 ]
