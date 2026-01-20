@@ -351,8 +351,6 @@
     "answer": "heart attack",
     "hint": "heart attack"
   },
-
-
   {
     "id": 45,
     "difficulty": "hard",
@@ -368,5 +366,141 @@
     "question": "What's it called?",
     "answer": "Feel free",
     "hint": "free"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image47.png",
+    "question": "What's it called?",
+    "answer": "honeycomb",
+    "hint": "honey + comb"
+  },
+  {
+    "id": 48,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image48.png",
+    "question": "What's it called?",
+    "answer": "rock and roll",
+    "hint": "rock and roll"
+  },
+  {
+    "id": 49,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image49.png",
+    "question": "What's it called?",
+    "answer": "to do list",
+    "hint": "list"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image50.png",
+    "question": "What's it called?",
+    "answer": "touch up",
+    "hint": "touch"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image51.png",
+    "question": "Guess the Country?",
+    "answer": "New zealand",
+    "hint": "New zealand"
+  },
+  {
+    "id": 52,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image52.png",
+    "question": "What's it called?",
+    "answer": "Illegal",
+    "hint": "Illegal"
+  },
+  {
+    "id": 53,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image53.png",
+    "question": "What's it called?",
+    "answer": "Time to go",
+    "hint": "Time to"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image54.png",
+    "question": "What's it called?",
+    "answer": "Eggplant",
+    "hint": "Eggplant"
+  },
+  {
+    "id": 55,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image55.png",
+    "question": "What's it called?",
+    "answer": "fluent",
+    "hint": "Fluent"
+  },
+  {
+    "id": 56,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image56.png",
+    "question": "What's it called?",
+    "answer": "Drum Sticks",
+    "hint": "Drum Sticks"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image57.png",
+    "question": "What's it called?",
+    "answer": "No Idea",
+    "hint": "No Idea"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image58.png",
+    "question": "What's it called?",
+    "answer": "Lemonade",
+    "hint": "Lemonade"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image59.png",
+    "question": "What's it called?",
+    "answer": "Love Birds",
+    "hint": "Love"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image60.png",
+    "question": "What's it called?",
+    "answer": "Eye shadow",
+    "hint": "Shadow"
+  },
+  {
+    "id": 61,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image61.png",
+    "question": "Guess the Actor name?",
+    "answer": "Tom Cruise",
+    "hint": "Tom"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image62.png",
+    "question": "What's it called?",
+    "answer": "Design",
+    "hint": "De + sign"
+  },
+  {
+    "id": 63,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image63.png",
+    "question": "What's it called?",
+    "answer": "Spaceship",
+    "hint": "Spaceship"
   }
 ]
