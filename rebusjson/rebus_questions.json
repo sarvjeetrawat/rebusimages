@@ -502,5 +502,47 @@
     "question": "What's it called?",
     "answer": "Spaceship",
     "hint": "Spaceship"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image64.png",
+    "question": "What's it called?",
+    "answer": "Once Upon A Time",
+    "hint": "Once Upon A"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image65.png",
+    "question": "What's it called?",
+    "answer": "Read Between The Lines",
+    "hint": "Read Between The"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image66.png",
+    "question": "What's it called?",
+    "answer": "Growing economy",
+    "hint": "Growing"
+  },
+  {
+    "id": 67,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image67.png",
+    "question": "What's it called?",
+    "answer": "Black Hole",
+    "hint": "___hole"
+  },
+  {
+    "id": 68,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image68.png",
+    "question": "What's it called?",
+    "answer": "Men in black",
+    "hint": "Men in"
   }
+
+
 ]
