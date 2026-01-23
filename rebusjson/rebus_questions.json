@@ -542,6 +542,22 @@
     "question": "What's it called?",
     "answer": "Men in black",
     "hint": "Men in"
+  },
+  {
+    "id": 69,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image69.png",
+    "question": "What's it called?",
+    "answer": "Guidance",
+    "hint": "dance"
+  },
+  {
+    "id": 70,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image70.png",
+    "question": "What's it called?",
+    "answer": "Sweet Tooth",
+    "hint": "Sweet"
   }
 
 
