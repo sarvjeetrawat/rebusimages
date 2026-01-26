@@ -566,6 +566,30 @@
     "question": "What's it called?",
     "answer": "Screwdriver",
     "hint": "Screwdriver"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image72.png",
+    "question": "What's it called?",
+    "answer": "Reindeer",
+    "hint": "Reindeer"
+  },
+  {
+    "id": 73,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image73.png",
+    "question": "What's it called?",
+    "answer": "Door to Door",
+    "hint": "Door to ____"
+  },
+  {
+    "id": 74,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image74.png",
+    "question": "What's it called?",
+    "answer": "Be on Time",
+    "hint": "Be on __"
   }
 
 
