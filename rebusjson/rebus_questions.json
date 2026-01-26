@@ -558,6 +558,14 @@
     "question": "What's it called?",
     "answer": "Sweet Tooth",
     "hint": "Sweet"
+  },
+  {
+    "id": 71,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image71.png",
+    "question": "What's it called?",
+    "answer": "Screwdriver",
+    "hint": "Screwdriver"
   }
 
 
