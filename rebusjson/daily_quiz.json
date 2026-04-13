@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-04-17",
+    "date": "2026-04-13",
     "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-12.png",
     "question": "What phrase does this rebus image represent?",
     "answer": "time flies",
@@ -8,11 +8,27 @@
     "difficulty": "medium"
   },
   {
-    "date": "2026-04-18",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-13.png",
+    "date": "2026-04-14",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-14.png",
     "question": "What idiom does this image show?",
     "answer": "piece of cake",
     "hint": "It means something very easy",
     "difficulty": "easy"
+  },
+  {
+    "date": "2026-04-15",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-15.png",
+    "question": "Can you Guess this?",
+    "answer": "Half Hearted",
+    "hint": "Half __",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-04-16",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-16.png",
+    "question": "Can you Guess this?",
+    "answer": "Condescending",
+    "hint": "__descending",
+    "difficulty": "medium"
   }
 ]
