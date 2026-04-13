@@ -1,6 +1,6 @@
 [
   {
-    "date": "2026-04-13",
+    "date": "2026-04-12",
     "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-12.png",
     "question": "What phrase does this rebus image represent?",
     "answer": "time flies",
@@ -30,5 +30,45 @@
     "answer": "Condescending",
     "hint": "__descending",
     "difficulty": "medium"
+  },
+  {
+    "date": "2026-04-17",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-17.png",
+    "question": "Can you Guess this?",
+    "answer": "Small price to pay",
+    "hint": "Small price to pay",
+    "difficulty": "hard"
+  },
+  {
+    "date": "2026-04-18",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-18.png",
+    "question": "Can you Guess this?",
+    "answer": "No Biggie",
+    "hint": "No Biggie",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-04-19",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-19.png",
+    "question": "Can you Guess this?",
+    "answer": "Up to date",
+    "hint": "Up to date",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-04-20",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-20.png",
+    "question": "Can you Guess this?",
+    "answer": "Seasoning",
+    "hint": "Seasoning",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-04-21",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-21.png",
+    "question": "Can you Guess this?",
+    "answer": "Round of Drinks",
+    "hint": "Round of Drinks",
+    "difficulty": "easy"
   }
 ]
