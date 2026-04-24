@@ -102,5 +102,29 @@
     "answer": "Warmhole",
     "hint": "Warmhole",
     "difficulty": "easy"
+  },
+  {
+    "date": "2026-04-26",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-26.png",
+    "question": "Can you Guess this?",
+    "answer": "A Fish in the sea",
+    "hint": "A Fish in the sea",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-04-27",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-27.png",
+    "question": "Can you Guess this?",
+    "answer": "Prediction",
+    "hint": "Prediction",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-04-28",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-28.png",
+    "question": "Can you Guess this?",
+    "answer": "Working nine to five",
+    "hint": "Working nine to five",
+    "difficulty": "easy"
   }
 ]
