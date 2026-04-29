@@ -134,5 +134,45 @@
     "answer": "Anyone",
     "hint": "Anyone",
     "difficulty": "easy"
+  },
+  {
+    "date": "2026-04-30",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-04-30.png",
+    "question": "Can you Guess this?",
+    "answer": "Cupcake",
+    "hint": "Cup + cake",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-05-01",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-01.png",
+    "question": "Can you Guess this?",
+    "answer": "Half Time",
+    "hint": "Half + time",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-05-02",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-02.png",
+    "question": "Can you Guess this?",
+    "answer": "No Idea",
+    "hint": "No i",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-05-03",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-03.png",
+    "question": "Can you Guess this?",
+    "answer": "Together forever",
+    "hint": "Together forever",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-05-04",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-04.png",
+    "question": "Can you Guess this?",
+    "answer": "Happy Holiday",
+    "hint": "Happy + Holiday",
+    "difficulty": "easy"
   }
 ]
