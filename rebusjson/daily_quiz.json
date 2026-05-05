@@ -190,5 +190,21 @@
     "answer": "Repeat After Me",
     "hint": "Repeat After Me",
     "difficulty": "easy"
+  },
+  {
+    "date": "2026-05-07",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-07.png",
+    "question": "Can you Guess this?",
+    "answer": "Calculated Risk",
+    "hint": "Calculated Risk",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-05-08",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-08.png",
+    "question": "Can you Guess this?",
+    "answer": "Looking Backwards",
+    "hint": "Looking Backwards",
+    "difficulty": "easy"
   }
 ]
