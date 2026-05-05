@@ -174,5 +174,13 @@
     "answer": "Happy Holiday",
     "hint": "Happy + Holiday",
     "difficulty": "easy"
+  },
+  {
+    "date": "2026-05-05",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-05.png",
+    "question": "Can you Guess this?",
+    "answer": "Stand Up Comedy",
+    "hint": "Stand Up Comedy",
+    "difficulty": "easy"
   }
 ]
