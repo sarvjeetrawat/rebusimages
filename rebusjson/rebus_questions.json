@@ -998,6 +998,94 @@
     "question": "What's it called?",
     "answer": "Summary",
     "hint": "Sum + marry"
+  },
+  {
+    "id": 126,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image126.png",
+    "question": "What's it called?",
+    "answer": "A fish in a sea",
+    "hint": "A fish in a sea"
+  },
+  {
+    "id": 127,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image127.png",
+    "question": "What's it called?",
+    "answer": "Prediction",
+    "hint": "Prediction"
+  },
+  {
+    "id": 128,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image128.png",
+    "question": "What's it called?",
+    "answer": "Working nine to five",
+    "hint": "Working nine to five"
+  },
+  {
+    "id": 129,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image129.png",
+    "question": "What's it called?",
+    "answer": "Cupcake",
+    "hint": "Cupcake"
+  },
+  {
+    "id": 130,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image130.png",
+    "question": "What's it called?",
+    "answer": "Half Time",
+    "hint": "Half Time"
+  },
+  {
+    "id": 131,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image131.png",
+    "question": "What's it called?",
+    "answer": "No Idea",
+    "hint": "No Idea"
+  },
+  {
+    "id": 132,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image132.png",
+    "question": "What's it called?",
+    "answer": "Together forever",
+    "hint": "Together forever"
+  },
+  {
+    "id": 133,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image133.png",
+    "question": "What's it called?",
+    "answer": "Happy Holiday",
+    "hint": "Happy Holiday"
+  },
+  {
+    "id": 134,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image134.png",
+    "question": "What's it called?",
+    "answer": "Stand up comedy",
+    "hint": "Stand up comedy"
+  },
+  {
+    "id": 135,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image135.png",
+    "question": "What's it called?",
+    "answer": "Repeat after me",
+    "hint": "Repeat after me"
+  },
+  {
+    "id": 136,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image136.png",
+    "question": "What's it called?",
+    "answer": "Calculated Risk",
+    "hint": "Calculated Risk"
   }
   
 
