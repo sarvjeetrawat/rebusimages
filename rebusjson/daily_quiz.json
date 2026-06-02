@@ -1,165 +1,5 @@
 [
   {
-    "date": "2026-05-13",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-13.png",
-    "question": "Can you Guess this?",
-    "answer": "Headquarters",
-    "hint": "Headquarters",
-    "difficulty": "hard"
-  },
-  {
-    "date": "2026-05-14",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-14.png",
-    "question": "Guess the country name?",
-    "answer": "Qatar",
-    "hint": "Qatar",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-15",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-15.png",
-    "question": "Can you Guess this?",
-    "answer": "High way",
-    "hint": "High way",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-16",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-16.png",
-    "question": "Can you Guess this?",
-    "answer": "Face to Face",
-    "hint": "Face to Face",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-17",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-17.png",
-    "question": "Can you Guess this?",
-    "answer": "Not a big deal",
-    "hint": "Not a big deal",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-18",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-18.png",
-    "question": "Can you Guess this?",
-    "answer": "Inside",
-    "hint": "Inside",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-19",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-19.png",
-    "question": "Can you Guess this?",
-    "answer": "Keep In Touch",
-    "hint": "Keep In Touch",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-20",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-20.png",
-    "question": "Can you Guess this?",
-    "answer": "Things are under control",
-    "hint": "Things are under control",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-21",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-21.png",
-    "question": "Can you Guess this?",
-    "answer": "Head In the sand",
-    "hint": "Head in the sand",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-22",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-22.png",
-    "question": "Can you Guess this?",
-    "answer": "Informal",
-    "hint": "Informal",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-23",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-23.png",
-    "question": "Can you Guess this?",
-    "answer": "Indoor plant",
-    "hint": "Indoor Plant",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-24",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-24.png",
-    "question": "Can you Guess this?",
-    "answer": "Feeling Under the weather",
-    "hint": "Feeling Under the weather",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-25",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-25.png",
-    "question": "Can you Guess this?",
-    "answer": "One foot in the door",
-    "hint": "One foot in the door",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-26",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-26.png",
-    "question": "Can you Guess this?",
-    "answer": "Less is more",
-    "hint": "Less is more",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-27",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-27.png",
-    "question": "Can you Guess this?",
-    "answer": "Make it or Break it",
-    "hint": "Make it or Break it",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-28",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-28.png",
-    "question": "Can you Guess this?",
-    "answer": "Rotten Apples",
-    "hint": "Rotten Apples",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-29",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-29.png",
-    "question": "Can you Guess this?",
-    "answer": "Back in five minutes",
-    "hint": "Back in five minutes",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-30",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-30.png",
-    "question": "Can you Guess this?",
-    "answer": "Final",
-    "hint": "Final",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-05-31",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-05-31.png",
-    "question": "Can you Guess this?",
-    "answer": "Utensil",
-    "hint": "Utensil",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-01",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-01.png",
-    "question": "Can you Guess this?",
-    "answer": "Snowman",
-    "hint": "Snowman",
-    "difficulty": "easy"
-  },
-  {
     "date": "2026-06-02",
     "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-02.png",
     "question": "Can you Guess this?",
@@ -173,6 +13,94 @@
     "question": "Can you Guess this?",
     "answer": "Keynote Speaker",
     "hint": "Keynote Speaker",
+    "difficulty": "easy"
+  }
+  {
+    "date": "2026-06-04",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-04.png",
+    "question": "Can you Guess this?",
+    "answer": "Head In the sand",
+    "hint": "Head in the sand",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-05",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-05.png",
+    "question": "Can you Guess this?",
+    "answer": "Informal",
+    "hint": "Informal",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-06",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-06.png",
+    "question": "Can you Guess this?",
+    "answer": "Indoor plant",
+    "hint": "Indoor Plant",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-07",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-07.png",
+    "question": "Can you Guess this?",
+    "answer": "Feeling Under the weather",
+    "hint": "Feeling Under the weather",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-08",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-08.png",
+    "question": "Can you Guess this?",
+    "answer": "One foot in the door",
+    "hint": "One foot in the door",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-09",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-09.png",
+    "question": "Can you Guess this?",
+    "answer": "Less is more",
+    "hint": "Less is more",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-10",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-10.png",
+    "question": "Can you Guess this?",
+    "answer": "Make it or Break it",
+    "hint": "Make it or Break it",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-11",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-11.png",
+    "question": "Can you Guess this?",
+    "answer": "Rotten Apples",
+    "hint": "Rotten Apples",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-12",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-12.png",
+    "question": "Can you Guess this?",
+    "answer": "Back in five minutes",
+    "hint": "Back in five minutes",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-13",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-13.png",
+    "question": "Can you Guess this?",
+    "answer": "Final",
+    "hint": "Final",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-14",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-14.png",
+    "question": "Can you Guess this?",
+    "answer": "Utensil",
+    "hint": "Utensil",
     "difficulty": "easy"
   }
 ]
