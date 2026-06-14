@@ -1,93 +1,5 @@
 [
   {
-    "date": "2026-06-02",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-02.png",
-    "question": "Can you Guess this?",
-    "answer": "Gingerbread man",
-    "hint": "Gingerbread man",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-03",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-03.png",
-    "question": "Can you Guess this?",
-    "answer": "Keynote Speaker",
-    "hint": "Keynote Speaker",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-04",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-04.png",
-    "question": "Can you Guess this?",
-    "answer": "Head In the sand",
-    "hint": "Head in the sand",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-05",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-05.png",
-    "question": "Can you Guess this?",
-    "answer": "Informal",
-    "hint": "Informal",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-06",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-06.png",
-    "question": "Can you Guess this?",
-    "answer": "Indoor plant",
-    "hint": "Indoor Plant",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-07",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-07.png",
-    "question": "Can you Guess this?",
-    "answer": "Feeling Under the weather",
-    "hint": "Feeling Under the weather",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-08",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-08.png",
-    "question": "Can you Guess this?",
-    "answer": "One foot in the door",
-    "hint": "One foot in the door",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-09",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-09.png",
-    "question": "Can you Guess this?",
-    "answer": "Less is more",
-    "hint": "Less is more",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-10",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-10.png",
-    "question": "Can you Guess this?",
-    "answer": "Make it or Break it",
-    "hint": "Make it or Break it",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-11",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-11.png",
-    "question": "Can you Guess this?",
-    "answer": "Rotten Apples",
-    "hint": "Rotten Apples",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-12",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-12.png",
-    "question": "Can you Guess this?",
-    "answer": "Back in five minutes",
-    "hint": "Back in five minutes",
-    "difficulty": "easy"
-  },
-  {
     "date": "2026-06-13",
     "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-13.png",
     "question": "Can you Guess this?",
@@ -101,6 +13,118 @@
     "question": "Can you Guess this?",
     "answer": "Utensil",
     "hint": "Utensil",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-15",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-15.png",
+    "question": "Can you Guess the Country?",
+    "answer": "Taiwan",
+    "hint": "Taiwan",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-16",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-16.png",
+    "question": "Can you Guess the Country?",
+    "answer": "Spain",
+    "hint": "Spain",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-17",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-17.png",
+    "question": "Can you Guess the Country?",
+    "answer": "Oman",
+    "hint": "Oman",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-18",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-18.png",
+    "question": "Can you Guess the Country?",
+    "answer": "Cuba",
+    "hint": "Cuba",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-19",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-19.png",
+    "question": "Can you Guess the Country?",
+    "answer": "Germany",
+    "hint": "Germany",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-20",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-20.png",
+    "question": "Can you Guess the Country?",
+    "answer": "Ukraine",
+    "hint": "Ukraine",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-21",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-21.png",
+    "question": "Can you Guess the Country?",
+    "answer": "Iran",
+    "hint": "Iran",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-22",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-22.png",
+    "question": "Can you Guess the Country?",
+    "answer": "Chicago",
+    "hint": "Chicago",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-23",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-23.png",
+    "question": "Can you Guess the Country?",
+    "answer": "Iceland",
+    "hint": "Iceland",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-24",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-24.png",
+    "question": "Can you Guess the Country?",
+    "answer": "Greenland",
+    "hint": "Greenland",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-25",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-25.png",
+    "question": "Can you Guess the Country?",
+    "answer": "Findland",
+    "hint": "Greenland",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-26",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-26.png",
+    "question": "Can you Guess the Country?",
+    "answer": "Chile",
+    "hint": "Chile",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-27",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-27.png",
+    "question": "Can you Guess the Country?",
+    "answer": "Macau",
+    "hint": "Macau",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-06-28",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-28.png",
+    "question": "Can you Guess the Country?",
+    "answer": "France",
+    "hint": "France",
     "difficulty": "easy"
   }
 ]
