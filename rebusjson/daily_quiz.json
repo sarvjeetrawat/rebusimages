@@ -1,130 +1,18 @@
 [
   {
-    "date": "2026-06-26",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-26.png",
-    "question": "Can you Guess the Country?",
-    "answer": "Chile",
-    "hint": "Chile",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-27",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-27.png",
-    "question": "Can you Guess the Country?",
-    "answer": "Macau",
-    "hint": "Macau",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-28",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-28.png",
-    "question": "Can you Guess the Country?",
-    "answer": "France",
-    "hint": "France",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-29",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-29.png",
-    "question": "Can you Guess the puzzle?",
-    "answer": "Growing Old",
-    "hint": "Growing Old",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-06-30",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-06-30.png",
-    "question": "Can you Guess the puzzle?",
-    "answer": "Excuse Me",
-    "hint": "Excuse Me",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-07-01",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-01.png",
-    "question": "Can you Guess the puzzle?",
-    "answer": "Decide",
-    "hint": "Decide",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-07-02",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-02.png",
-    "question": "Can you Guess the puzzle?",
-    "answer": "Mother in Law",
-    "hint": "Mother in Law",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-07-03",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-03.png",
-    "question": "Can you Guess the puzzle?",
-    "answer": "Deadline",
-    "hint": "Deadline",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-07-04",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-04.png",
-    "question": "Can you Guess the puzzle?",
-    "answer": "Superman",
-    "hint": "Superman",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-07-05",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-05.png",
-    "question": "Can you Guess the puzzle?",
-    "answer": "Positive King",
-    "hint": "Positive King",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-07-06",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-06.png",
-    "question": "Can you Guess the Country?",
-    "answer": "Paris",
-    "hint": "Paris",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-07-07",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-07.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Pyramid Scheme",
-    "hint": "Pyramid Scheme",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-07-08",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-08.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Reverse Psychology",
-    "hint": "Reverse Psychology",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-07-09",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-09.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Left for dead",
-    "hint": "Left for dead",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-07-10",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-10.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Trash Talk",
-    "hint": "Trash Talk",
-    "difficulty": "easy"
-  },
-  {
     "date": "2026-07-11",
     "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-11.png",
     "question": "Can you Guess the Puzzle?",
     "answer": "Right Angle",
     "hint": "Right Angle",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-07-12",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-12.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Tulips",
+    "hint": "Tulips",
     "difficulty": "easy"
   }
 
