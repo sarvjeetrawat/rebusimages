@@ -1246,6 +1246,70 @@
     "question": "What's it called?",
     "answer": "Walk on all fours",
     "hint": "Walk on all fours"
+  },
+  {
+    "id": 157,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image157.png",
+    "question": "What's it called?",
+    "answer": "Tennessee",
+    "hint": "Tennessee"
+  },
+  {
+    "id": 158,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image158.png",
+    "question": "What's it called?",
+    "answer": "Hot Pursuit",
+    "hint": "Hot Pursuit"
+  },
+  {
+    "id": 159,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image159.png",
+    "question": "What's it called?",
+    "answer": "Too little too late",
+    "hint": "Too little too late"
+  },
+  {
+    "id": 160,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image160.png",
+    "question": "What's it called?",
+    "answer": "Comet",
+    "hint": "Comet"
+  },
+  {
+    "id": 161,
+    "difficulty": "expert",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image161.png",
+    "question": "What's it called?",
+    "answer": "Mental Breakdown",
+    "hint": "Mental Breakdown"
+  },
+  {
+    "id": 162,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image162.png",
+    "question": "What's it called?",
+    "answer": "Nintendo",
+    "hint": "Nintendo"
+  },
+  {
+    "id": 163,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image163.png",
+    "question": "What's it called?",
+    "answer": "Light Year",
+    "hint": "Light Year"
+  },
+  {
+    "id": 164,
+    "difficulty": "expert",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image164.png",
+    "question": "What's it called?",
+    "answer": "Head Over Heels in Love",
+    "hint": "Head Over Heels in Love"
   }
   
   
