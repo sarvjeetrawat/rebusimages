@@ -1310,8 +1310,159 @@
     "question": "What's it called?",
     "answer": "Head Over Heels in Love",
     "hint": "Head Over Heels in Love"
+  },
+  {
+    "id": 165,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image165.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Food for thought",
+    "hint": "Food for thought"
+  },
+  {
+    "id": 166,
+    "difficulty": "expert",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image166.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Living the dream",
+    "hint": "Living the dream"
+  },
+  {
+    "id": 167,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image167.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Doritos",
+    "hint": "Doritos"
+  },
+  {
+    "id": 168,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image168.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Space Invaders",
+    "hint": "Space Invaders"
+  },
+  {
+    "id": 169,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image169.png",
+    "question": "What's this puzzle saying?",
+    "answer": "What goes up what come down",
+    "hint": "What goes up what come down"
+  },
+  {
+    "id": 170,
+    "difficulty": "expert",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image170.png",
+    "question": "What's this puzzle saying?",
+    "answer": "A sight for sore eyes",
+    "hint": "A sight for sore eyes"
+  },
+  {
+    "id": 171,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image171.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Sideways",
+    "hint": "Sideways"
+  },
+  {
+    "id": 172,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image172.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Written all over your face",
+    "hint": "Written all over your face"
+  },
+  {
+    "id": 173,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image173.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Second hand smoke",
+    "hint": "Second hand smoke"
+  },
+  {
+    "id": 174,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image174.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Left for dead",
+    "hint": "Left for dead"
+  },
+  {
+    "id": 175,
+    "difficulty": "expert",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image175.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Loved Ones",
+    "hint": "Loved Ones"
+  },
+  {
+    "id": 176,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image176.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Tuna Melt",
+    "hint": "Tuna Melt"
+  },
+  {
+    "id": 177,
+    "difficulty": "expert",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image177.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Gastric bypass",
+    "hint": "Gastric bypass"
+  },
+  {
+    "id": 178,
+    "difficulty": "expert",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image178.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Add Insult to injury",
+    "hint": "Add Insult to injury"
+  },
+  {
+    "id": 179,
+    "difficulty": "medium",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image179.png",
+    "question": "What's this puzzle saying?",
+    "answer": "UnderCover Cop",
+    "hint": "UnderCover Cop"
+  },
+  {
+    "id": 180,
+    "difficulty": "hard",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image180.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Euphoria",
+    "hint": "Euphoria"
+  },
+  {
+    "id": 181,
+    "difficulty": "easy",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image181.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Cross Bow",
+    "hint": "Cross Bow"
+  },
+  {
+    "id": 182,
+    "difficulty": "expert",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image182.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Last but not least",
+    "hint": "Last but not least"
+  },
+  {
+    "id": 183,
+    "difficulty": "expert",
+    "image": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/images/image183.png",
+    "question": "What's this puzzle saying?",
+    "answer": "Three wise men",
+    "hint": "Three wise men"
   }
-  
   
 
 ]
