@@ -142,6 +142,38 @@
     "answer": "SunScreen",
     "hint": "SunScreen",
     "difficulty": "easy"
+  },
+  {
+    "date": "2026-07-29",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-29.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Multiple choice",
+    "hint": "Multiple choice",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-07-30",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-30.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Come into season",
+    "hint": "Come into season",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-07-31",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-07-31.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "I am bigger than you",
+    "hint": "I am bigger than you",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-08-01",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-08-01.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Good Afternoon",
+    "hint": "Good Afternoon",
+    "difficulty": "easy"
   }
 
 ]
