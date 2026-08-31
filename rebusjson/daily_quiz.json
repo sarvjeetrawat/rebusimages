@@ -230,6 +230,22 @@
     "answer": "Hang in there",
     "hint": "Hang in there",
     "difficulty": "easy"
+  },
+  {
+    "date": "2026-09-01",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-01.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Life Savers",
+    "hint": "Life Savers",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-09-02",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-02.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "TwinKies",
+    "hint": "TwinKies",
+    "difficulty": "easy"
   }
 
 ]
