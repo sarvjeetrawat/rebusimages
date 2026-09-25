@@ -62,6 +62,30 @@
     "answer": "Block",
     "hint": "Block",
     "difficulty": "easy"
+  },
+  {
+    "date": "2026-09-27",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-27.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Fortune",
+    "hint": "Fortune",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-09-28",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-28.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Thai Tea",
+    "hint": "Thai Tea",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-09-29",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-29.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Sit Up",
+    "hint": "Sit Up",
+    "difficulty": "easy"
   }
 
 ]
