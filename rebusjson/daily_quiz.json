@@ -1,117 +1,5 @@
 [
   {
-    "date": "2026-09-19",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-19.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Money",
-    "hint": "Money",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-09-20",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-20.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Bonus",
-    "hint": "Bouns",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-09-21",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-21.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Spring into Action",
-    "hint": "Spring into Action",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-09-22",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-22.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "No Pun Intended",
-    "hint": "No Pun Intended",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-09-23",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-23.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Synchrony",
-    "hint": "Synchrony",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-09-24",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-24.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Too Hot To Handle",
-    "hint": "Too Hot To Handle",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-09-25",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-25.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "A Cut above the Rest",
-    "hint": "A Cut above the Rest",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-09-26",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-26.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Block",
-    "hint": "Block",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-09-27",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-27.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Fortune",
-    "hint": "Fortune",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-09-28",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-28.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Thai Tea",
-    "hint": "Thai Tea",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-09-29",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-29.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Sit Up",
-    "hint": "Sit Up",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-09-30",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-09-30.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Coincide",
-    "hint": "Coincide",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-10-01",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-01.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Condescending",
-    "hint": "Condescending",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-10-02",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-02.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Team",
-    "hint": "Team",
-    "difficulty": "easy"
-  },
-  {
     "date": "2026-10-03",
     "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-03.png",
     "question": "Can you Guess the Puzzle?",
@@ -133,6 +21,134 @@
     "question": "Can you Guess the Puzzle?",
     "answer": "Morning Sickness",
     "hint": "Morning Sickness",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-06",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-06.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Elastic",
+    "hint": "Elastic",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-07",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-07.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Terminal",
+    "hint": "Terminal",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-08",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-08.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Kitchen Sink",
+    "hint": "Kitchen Sink",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-09",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-09.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Mistrial",
+    "hint": "Mistrial",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-10",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-10.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Living Water",
+    "hint": "Living Water",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-11",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-11.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Coffee",
+    "hint": "Coffee",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-12",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-12.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Too close for Comfort",
+    "hint": "Too close for Comfort",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-13",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-13.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Ready set go",
+    "hint": "Ready set go",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-14",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-14.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Eminem",
+    "hint": "Eminem",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-15",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-15.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Antique",
+    "hint": "Antique",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-16",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-16.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Milkybar",
+    "hint": "Milkybar",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-17",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-17.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Back door",
+    "hint": "Back door",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-18",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-18.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "High Temperature",
+    "hint": "High Temperature",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-19",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-19.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Just right",
+    "hint": "Just right",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-20",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-20.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Low Self Esteem",
+    "hint": "Low Self Esteem",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-21",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-21.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Turn around",
+    "hint": "Turn around",
     "difficulty": "easy"
   }
 
