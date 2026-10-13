@@ -150,6 +150,30 @@
     "answer": "Turn around",
     "hint": "Turn around",
     "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-22",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-22.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "SpaceShip",
+    "hint": "SpaceShip",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-23",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-23.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Come Full Circle",
+    "hint": "Come Full Circle",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-10-24",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-24.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Consistency",
+    "hint": "Consistency",
+    "difficulty": "easy"
   }
 
 ]
