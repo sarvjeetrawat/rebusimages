@@ -1,149 +1,83 @@
 [
   {
-    "date": "2026-10-28",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-28.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Life in the Public eye",
-    "hint": "Life in the Public eye",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-10-29",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-29.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Generation Gap",
-    "hint": "Generation Gap",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-10-30",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-30.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "First and Foremost",
-    "hint": "First and Foremost",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-10-31",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-10-31.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Scatter Brain",
-    "hint": "Scatter Brain",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-11-01",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-01.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Discord",
-    "hint": "Discord",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-11-02",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-02.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Corner Stone",
-    "hint": "Corner Stone",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-11-03",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-03.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Last Straw",
-    "hint": "Last Straw",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-11-04",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-04.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Multiple Choice",
-    "hint": "Multiple Choice",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-11-05",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-05.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Once Upon A Time",
-    "hint": "Once Upon A Time",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-11-06",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-06.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Reverse Psychology",
-    "hint": "Reverse Psychology",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-11-07",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-07.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "No Escape",
-    "hint": "No Escape",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-11-08",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-08.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "A Thin Line Between Love and Hate",
-    "hint": "A Thin Line Between Love and Hate",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-11-09",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-09.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Pisces",
-    "hint": "Pisces",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-11-12",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-12.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Demonstrate",
-    "hint": "Demonstrate",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-11-13",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-13.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Ambiguous",
-    "hint": "Ambiguous",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-11-14",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-14.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Hang in there",
-    "hint": "Hang in there",
-    "difficulty": "easy"
-  },
-  {
-    "date": "2026-11-15",
-    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-15.png",
-    "question": "Can you Guess the Puzzle?",
-    "answer": "Music to my ear",
-    "hint": "Music to my ear",
-    "difficulty": "easy"
-  },
-  {
     "date": "2026-11-16",
     "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-16.png",
     "question": "Can you Guess the Puzzle?",
     "answer": "Window Pane",
     "hint": "Window Pane",
     "difficulty": "easy"
+  },
+  {
+    "date": "2026-11-19",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-19.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Synchrony",
+    "hint": "Synchrony",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-11-20",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-20.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Too Hot to Handle",
+    "hint": "Too Hot to Handle",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-11-21",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-21.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "More Often than not",
+    "hint": "More Often than not",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-11-22",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-22.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "A cut above the rest",
+    "hint": "A cut above the rest",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-11-23",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-23.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "A hard pill to swallow",
+    "hint": "A hard pill to swallow",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-11-24",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-24.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Strike a Pose",
+    "hint": "Strike a Pose",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-11-25",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-25.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Swiss Cheese",
+    "hint": "Swiss Cheese",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-11-26",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-26.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Sweet Dreams",
+    "hint": "Sweet Dreams",
+    "difficulty": "easy"
+  },
+  {
+    "date": "2026-11-27",
+    "imageUrl": "https://raw.githubusercontent.com/sarvjeetrawat/rebusimages/main/dailyimages/2026-11-27.png",
+    "question": "Can you Guess the Puzzle?",
+    "answer": "Spring Rolls",
+    "hint": "Spring Rolls",
+    "difficulty": "easy"
   }
-
-
 
 ]
